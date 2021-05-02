@@ -1,0 +1,6 @@
+{
+    "status": "Failed",
+    "statusCode": 400,
+    "code": "MissingParameterException",
+    "message": "Either Username or password is missing"
+}

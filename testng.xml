@@ -2,8 +2,7 @@
 <suite name="Regression Suite">
 	<test name="RestAssured Test">
 		<classes>
-			<class name="com.kickdrum.statuses.UserTimelineTest"></class>
-			<class name="com.kickdrum.statuses.TwitterWorkflowTest"></class>
+			<class name="com.kickdrum.entrypoint.APIAutomationTest"></class>
 		</classes>
 	</test>
 </suite>

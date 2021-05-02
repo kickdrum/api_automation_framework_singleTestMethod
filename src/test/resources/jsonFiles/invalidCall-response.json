@@ -1,0 +1,6 @@
+{
+    "status": "Failed",
+    "statusCode": 401,
+    "code": "InvalidCredentialsException",
+    "message": "Invalid username or password"
+}

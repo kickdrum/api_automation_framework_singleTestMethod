@@ -43,7 +43,7 @@ public class RestUtilities {
 
 	public static ResponseSpecification getResponseSpecification() {
 		RESPONSE_BUILDER = new ResponseSpecBuilder();
-		RESPONSE_BUILDER.expectStatusCode(200);
+		//RESPONSE_BUILDER.expectStatusCode(200);
 		RESPONSE_BUILDER.expectResponseTime(lessThan(3L), TimeUnit.SECONDS);
 		RESPONSE_SPEC = RESPONSE_BUILDER.build();
 		return RESPONSE_SPEC;
