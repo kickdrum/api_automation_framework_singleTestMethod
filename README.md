@@ -1,10 +1,10 @@
 # API Automation Framework
 API Automation framework using RestAssured.
-This method makes use of a single Test method takes gets its list of input request json file names from a Data Provider method.
-Each request file in the received list undergoes through the API call and verification steps.
 
-The actual output from the API call is compared against the corresponding expected json (stored in the same location where request jsons are present, suffixed as '-response.json').
-
-This framework can be used to process for as many sets (request & expected response json files) as stored in the 'jsonFiles' folder.
-
+Features:
+1) This approach takes in a set of JSON files (Request and Expected Response JSONs). Ensure to name the Request JSON file with suffix as '-request.json' and the ExpectedResponse JSON file with suffix as '-response.json'.
+2) Performs API calls for each Request JSON file, and collects the Response.
+3) Compares the Actual Response JSON with Expected Response JSON, and concludes on the test.
+4) Same Test method gets reused for the number of Request JSON files stored in the 'jsonFiles' folder.
+5) Supports different structures of Request and ExpectedResponse JSON files, for the same API endpoint.
 
