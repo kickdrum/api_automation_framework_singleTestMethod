@@ -83,19 +83,19 @@
 		<dependency>
 			<groupId>io.rest-assured</groupId>
 			<artifactId>json-path</artifactId>
-			<version>4.3.1</version>
+			<version>4.3.3</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/io.rest-assured/xml-path -->
 		<dependency>
 			<groupId>io.rest-assured</groupId>
 			<artifactId>xml-path</artifactId>
-			<version>4.3.1</version>
+			<version>4.3.3</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/io.rest-assured/json-schema-validator -->
 		<dependency>
 			<groupId>io.rest-assured</groupId>
 			<artifactId>json-schema-validator</artifactId>
-			<version>4.3.1</version>
+			<version>4.3.2</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/com.beust/jcommander -->
 		<dependency>
