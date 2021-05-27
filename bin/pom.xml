@@ -16,7 +16,7 @@
 		<selenium.version>3.141.59</selenium.version>
 		<apache.poi.version>4.1.2</apache.poi.version>
 		<testng.version>7.1.0</testng.version>
-		<extentreports-version>5.0.4</extentreports-version>
+		<extentreports-version>5.0.8</extentreports-version>
 		<maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
 		<maven-surefire-plugin.version>3.0.0-M4</maven-surefire-plugin.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
