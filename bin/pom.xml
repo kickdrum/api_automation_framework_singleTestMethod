@@ -12,7 +12,7 @@
 
 	<properties>
 		<java.version>11</java.version>
-		<log4j-version>2.13.3</log4j-version>
+		<log4j-version>2.14.1</log4j-version>
 		<selenium.version>3.141.59</selenium.version>
 		<apache.poi.version>4.1.2</apache.poi.version>
 		<testng.version>7.1.0</testng.version>
